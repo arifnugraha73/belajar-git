@@ -1,2 +1,0 @@
-contoh file ke-2
-Mengubah isi file dari file second_file.txt
